@@ -1,0 +1,8 @@
+{
+  "name": "Sigrow Integration",
+  "domain": "sigrow",
+  "codeowners": ["@JustGav"],
+  "documentation": "https://github.com/JustGav/HA-Sigrow",
+  "requirements": [],
+  "config_flow": true
+}

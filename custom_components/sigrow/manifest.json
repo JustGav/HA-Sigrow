@@ -1,0 +1,12 @@
+{
+  "domain": "sigrow",
+  "name": "Sigrow Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/JustGav/HA-Sigrow",
+  "requirements": ["aiohttp", "async_timeout"],
+  "dependencies": [],
+  "codeowners": ["@JustGav"],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "logo": "custom_components/sigrow/icons/sigrow.png"
+}
