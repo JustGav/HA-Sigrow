@@ -1,7 +1,8 @@
 # HA-Sigrow
 
 Home Assistant integration for Sigrow remote environmental sensors.
-![Sigrow Logo](custom_components/sigrow/icons/sigrpw.png)
+
+![Sigrow Logo](custom_components/sigrow/icons/sigrow.png)
 
 ## ✅ Features
 
